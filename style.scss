@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.8 $merriweather;
   color: $darkGray;
 }
 
@@ -31,11 +31,11 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $openSans;
   color: $darkerGray;
   font-weight: 600;
   
-  line-height: 1.7;
+  line-height: 1.3;
   margin: 1em 0 15px;
   padding: 0;
 
@@ -45,8 +45,8 @@ h1, h2, h3, h4, h5, h6 {
 }
   
 h1 {  
-  font-weight: 500;
-  font-size: 32px;
+  font-weight: 700;
+  font-size: 48px;
   a {
     color: inherit;
   }
@@ -54,11 +54,11 @@ h1 {
 
 h2 {  
   font-weight: 400;
-  font-size: 24px;
+  font-size: 32px;
 }
 
 h3 {  
-  font-size: 18px;
+  font-size: 24px;
 }
 
 h4 {  
