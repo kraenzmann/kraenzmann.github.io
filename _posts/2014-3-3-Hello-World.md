@@ -2,6 +2,7 @@
 layout: post
 title: "Hello world!"
 published: true
+googlewebfonts: Open+Sans
 ---
 
 This is my first post on my new blog, that was created by Jekyll and served via github pages.
